@@ -7,7 +7,7 @@ public class Exercise3 {
 	public static void main(String[] args) {
 		int n, i;
 		Exercise3 ob = new Exercise3();
-		System.out.println("Enter number of elements in the array?");
+		System.out.println("Enter number of elements in the array");
 		Scanner sc = new Scanner(System.in);
 		n = sc.nextInt();
 		System.out.println("Enter the elements:");
